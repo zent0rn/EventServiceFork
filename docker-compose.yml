@@ -14,7 +14,7 @@ services:
       - ms_network
 
   # Cache
-  # testst
+  # testsst
   redis:
     image: redis:8.0-alpine
     container_name: ms_lab_redis
